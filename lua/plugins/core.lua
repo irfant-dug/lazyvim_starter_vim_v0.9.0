@@ -26,7 +26,7 @@ return {
 	  { "williamboman/mason.nvim", version = "1.8.1" },
 	  { "folke/neoconf.nvim", version = "1.2.2" },
 	  { "folke/neodev.nvim", version = "2.5.2" },
-	  { "neovim/nvim-lspconfig", version = "0.1.6" },
+	  { "neovim/nvim-lspconfig", commit = "e49b1e9" },
 	  { "folke/todo-comments.nvim", version = "1.1.0" },
 	  { "folke/trouble.nvim", version = "2.10.0" },
 	  { "dstein64/vim-startuptime", version = "4.4.0" },
