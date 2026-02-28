@@ -1,5 +1,4 @@
 return {
-	  { "LazyVim/LazyVim", version = "10.4.4" },
 	  { "nvim-treesitter/nvim-treesitter", version = "0.9.1" },
 
 	  { "akinsho/bufferline.nvim", version = "4.4.0" },
@@ -41,7 +40,6 @@ return {
 
 	  { "nvimdev/dashboard-nvim", commit = "416f12e" },
 	  { "folke/noice.nvim", commit = "e50fc6d" },
-	  { "nvim-treesitter/nvim-treesitter", commit = "afa1033" },
 	  { "nvim-treesitter/nvim-treesitter-textobjects", commit = "78c49ca" },
 	  { "nvim-telescope/telescope-fzf-native.nvim", commit = "6c921ca" },
 	  { "hrsh7th/cmp-buffer", commit = "3022dbc" },
